@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bạn à!',
-    introDesc : Bạn có đang sống thật
-    với giới tính của mình không ? ',
+    introDesc : 'Bạn có đang sống thật
+    'với giới tính của mình không ? ',
     btnIntro: '😱No😱',
     title: 'Ở đây bạn có thể sống thật và chia sẻ thật',
     desc: 'Bạn có bị Bê đê không ?',
